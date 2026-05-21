@@ -7,15 +7,15 @@ This repository is intended to store GitHub-suitable PDF and Markdown resource p
 ## Export Summary
 
 - Export date: 2026-05-21
-- Core resources exported: 39
-- Files copied: 164
+- Core resources exported: 40
+- Files copied: 179
 - Files skipped by policy: 0
 
 ## Resource Counts
 
 | Type | Count |
 |---|---:|
-| folder_bundle | 9 |
+| folder_bundle | 10 |
 | individual_file | 30 |
 
 ## Files
